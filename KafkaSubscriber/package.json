@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "kafkajs": "^2.1.0",
+    "mqtt": "^4.3.7"
+  }
+}
